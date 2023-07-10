@@ -1,3 +1,5 @@
+A web application to search for artists, tracks and albums from spotify using react js and rapid api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
